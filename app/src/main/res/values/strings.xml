@@ -46,4 +46,6 @@
     <string name="lihat_tiket">Lihat Tiket</string>
     <string name="home">Home</string>
     <string name="setting">Setting</string>
+    <string name="change_language">Change Language</string>
+    <string name="help">Help</string>
 </resources>
